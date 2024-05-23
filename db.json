@@ -1,0 +1,116 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/y8FeZMv37WU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": "2",
+      "titulo": "Desmistificando mobile - Linguagens e Frameworks",
+      "descricao": "1,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/fmu1LQvZhms",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": "3",
+      "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
+      "descricao": "30 mil visualizações",
+      "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": "4",
+      "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
+      "descricao": "2,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": "5",
+      "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": "6",
+      "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
+      "descricao": "1,6 mil visualizações",
+      "url": "https://www.youtube.com/embed/vf9P_PycgRw",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": "7",
+      "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
+      "descricao": "3,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": "8",
+      "titulo": "baNaNa | Memes do JavaScript #2",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": "9"
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": "10"
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": "11"
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": "12"
+    },
+    {
+      "id": "bc5c",
+      "titulo": "Musica para relaxar e programar",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/watch?v=bhFnAnod5y8",
+      "imagem": "https://media.licdn.com/dms/image/C5612AQEPliPCkSpKnw/article-cover_image-shrink_720_1280/0/1639389550187?e=2147483647&v=beta&t=7paxNDM1o1HrlM9KMnTNgMb-EWy7-53rLUtvCbtQbKc"
+    },
+    {
+      "id": "3830",
+      "titulo": "Musica para relaxar e programar",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/bhFnAnod5y8",
+      "imagem": "https://media.licdn.com/dms/image/C5612AQEPliPCkSpKnw/article-cover_image-shrink_720_1280/0/1639389550187?e=2147483647&v=beta&t=7paxNDM1o1HrlM9KMnTNgMb-EWy7-53rLUtvCbtQbKc"
+    },
+    {
+      "titulo": "Musica para relaxar e programar",
+      "descricao": "0 mil visualizações",
+      "url": "https://www.youtube.com/embed/njkUeAX_fWg&list=RDnjkUeAX_fWg&start_radio=1",
+      "imagem": "https://media.licdn.com/dms/image/C5612AQEPliPCkSpKnw/article-cover_image-shrink_720_1280/0/1639389550187?e=2147483647&v=beta&t=7paxNDM1o1HrlM9KMnTNgMb-EWy7-53rLUtvCbtQbKc",
+      "id": "lgSaYYr"
+    },
+    {
+      "titulo": "montagme coral (SLOWED + REVERB)",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/watch?v=bhFnAnod5y8",
+      "imagem": "https://i.ytimg.com/vi/T7_tu-fCuv0/maxresdefault.jpg",
+      "id": "T65PM3L"
+    }
+  ]
+}
